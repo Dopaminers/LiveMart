@@ -1,2 +1,2 @@
 # LiveMart
-An Ecommerce websiter with all User and Merchant features included.
+An Ecommerce website with all User and Merchant features included.
