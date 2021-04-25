@@ -233,7 +233,7 @@ const AddressForm = (props) => {
         <GoogleMapReact
           bootstrapURLKeys = {
           {
-          key: "AIzaSyB9FT1ve633ZuIUIwzfn66H15-l8bTJRMs"
+          key: ""
           }
           }
           defaultCenter = {
